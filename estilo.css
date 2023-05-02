@@ -4,16 +4,22 @@
 }
 body{
     background-color: grey;
-    display: flex;
-    border: solid 1px violet;
+    /*border: solid 1px violet;*/
 }
 h1, h2{
-    color: red;
+    color: blue;
 }
 h1{
-    border: solid 1px blue;
+    /*border: solid 1px blue;*/
     text-align: center;
 }
 h2{
-    border: solid 1px green;
+    /*border: solid 1px green;*/
+}
+.principal{
+    display: flex;
+}
+.playa{
+    width: 500px;
+    /*border: solid 2px red;*/
 }
